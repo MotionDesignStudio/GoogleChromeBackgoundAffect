@@ -21,3 +21,10 @@ $(thisDivIsOnTop).delay( 9000 ).animate({opacity: 0}, 3000,
 Demo:
 
 http://mo-de.net/GoogleChromeBackgoundAffect/chromeAffect.html
+
+Bugs:
+
+Image flickers on Firefox.  Any help fixing this would be greatly appreciated.  I narrowed it down to jQuery's behavior at the end of changing the opacity.
+
+On Github:
+https://github.com/lindylex/GoogleChromeBackgoundAffect
