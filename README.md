@@ -1,5 +1,5 @@
 # GoogleChromeBackgoundAffect
-This replicates the fade out affect of images seen on Google’s Chrome Cast.
+This replicates the fade-out affect of images seen on Google’s Chrome Cast.
 
 Instructions:
 
@@ -12,7 +12,7 @@ You must have a minimum of four images in that directory.
 
 pocChromeAffect.js :
 
-You can adjust the fade out rate here and delay between the affect.  Change the 3000 for duration of fade out affect and  9000 for the delay between.
+You can adjust the fade-out rate here and delay between the affect.  Change the 3000 for duration of fade-out affect and  9000 for the delay between.
 
 Every 1000 is equal to one second.
 
