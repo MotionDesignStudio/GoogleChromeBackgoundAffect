@@ -20,7 +20,7 @@ $(thisDivIsOnTop).delay( 9000 ).animate({opacity: 0}, 3000,
 
 Demo:
 
-http://mo-de.net/GoogleChromeBackgoundAffect/chromeAffect.html
+http://mo-de.net/GoogleChromeBackgroundAffect/chromeAffect.html
 
 Bugs:
 
